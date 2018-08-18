@@ -1,2 +1,2 @@
-# expert-octo-adventure
+# java-octo-adventure
 Java track on Codecademy
